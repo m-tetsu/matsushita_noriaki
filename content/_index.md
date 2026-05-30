@@ -6,7 +6,6 @@ type: landing
 
 sections:
   - block: resume-biography-3
-    id: about
     content:
       username: me
       text: ''
@@ -17,7 +16,7 @@ sections:
     design:
       background:
         gradient_mesh:
-          enable: false
+          enable: true
       name:
         size: md
       avatar:
@@ -41,7 +40,7 @@ sections:
       columns: '1'
 
   - block: collection
-    id: featured-publications
+    id: papers
     content:
       title: Featured Publications
       filters:
@@ -53,7 +52,6 @@ sections:
       columns: 2
 
   - block: collection
-    id: publications
     content:
       title: Recent Publications
       text: ''
@@ -67,7 +65,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks & Invited Lectures
+      title: Recent & Upcoming Talks
       filters:
         folders:
           - events
@@ -84,20 +82,4 @@ sections:
     design:
       view: article-grid
       columns: 3
-
-  - block: contact
-    id: contact
-    content:
-      title: Get in Touch
-      subtitle: 'Available for invited talks and research collaboration.'
-      text: |-
-        I welcome inquiries about invited talks, conference keynotes, and international research collaboration in disaster economics, BCP, and disaster preparedness behavior.
-      email: tetsu315@gmail.com
-      contact_links:
-        - icon: researchgate
-          icon_pack: fab
-          name: researchmap.jp/tetsu315
-          link: 'https://researchmap.jp/tetsu315'
-    design:
-      columns: '2'
 ---
