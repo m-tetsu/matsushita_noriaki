@@ -14,15 +14,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher in Disaster Economics & Business Continuity
+role: Researcher in Disaster Economics & Business Continuity Planning
 
 # Organizations/Affiliations
 organizations:
-  - name: NTT West Corporation
+  - name: NTT West Corporation (西日本電信電話株式会社)
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the economic impacts of disasters, urban disaster prevention, and Business Continuity Planning (BCP). I welcome invitations for talks and opportunities for international research collaboration.
+bio: |
+  Researcher specializing in disaster economics, urban disaster prevention, and Business Continuity Planning (BCP).
+  Available for invited talks and international research collaboration.
 
 interests:
   - Disaster Economics
@@ -33,37 +35,85 @@ interests:
 
 education:
   courses:
-    - course: Ph.D.
+    - course: Ph.D. in Engineering
       institution: ""
       year: ""
+
+# Work experience
+work:
+  - position: Researcher
+    company_name: NTT West Corporation
+    company_url: ''
+    company_logo: ''
+    date_start: ''
+    date_end: ''
+    summary: |2-
+        Research and practice in disaster economics, urban disaster prevention, and Business Continuity Planning.
+  - position: Executive Board Member
+    company_name: NPO Business Continuity Advancement Organization (BCAO)
+    company_url: ''
+    company_logo: ''
+    date_start: '2020-06-01'
+    date_end: ''
+    summary: |
+        Promoting Business Continuity Planning adoption across Japanese industry.
+
+# Awards
+awards:
+  - title: Annual Best Paper Award
+    url: ''
+    date: '2023-05-01'
+    awarder: Institute of Social Safety Science
+    icon: ''
+    summary: |
+        For the paper *"Long-Term Impact of the Great East Japan Earthquake on Corporate Performance"* (Journal of Social Safety Science, 2022).
+  - title: Outstanding Research Award
+    url: ''
+    date: '2023-05-01'
+    awarder: NPO Business Continuity Advancement Organization (BCAO)
+    icon: ''
+    summary: |
+        For the paper *"Long-Term Impact of the Great East Japan Earthquake on Corporate Performance"*.
 
 # Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:tetsu315@gmail.com"
-  - icon: researchgate
-    icon_pack: fab
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://researchmap.jp/tetsu315
   - icon: github
     icon_pack: fab
-    link: https://github.com/matsushita-noriaki
+    link: https://github.com/m-tetsu
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tetsu315@gmail.com"
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Organizational groups that you belong to (for People widget)
 user_groups:
   - Researchers
 ---
 
-I am a researcher specializing in **disaster economics**, **urban disaster prevention**, and **Business Continuity Planning (BCP)**. Based in Japan, my work draws on large-scale empirical evidence — including listed-firm financial data and consumer purchasing data — to understand how disasters affect businesses and communities, and how preparedness measures translate into measurable resilience.
+## About
 
-My recent studies include long-term analyses of how the Great East Japan Earthquake affected listed firms' performance, the role of BCP and risk financing in mitigating damages, and field-based research on behavioral change for disaster preparedness. I also serve as an executive board member of the **Business Continuity Advancement Organization (BCAO)**, an NPO promoting BCP adoption across Japanese industry.
+I am a researcher specializing in **disaster economics**, **urban disaster prevention**, and **Business Continuity Planning (BCP)**, based in Japan and affiliated with **NTT West Corporation**. My work draws on large-scale empirical evidence — including listed-firm financial data, consumer purchasing data, and structured field interviews — to understand how disasters affect businesses and communities, and how preparedness measures translate into measurable resilience.
 
-In 2023, my paper on the long-term financial impacts of the Great East Japan Earthquake received the **Annual Best Paper Award** from the Institute of Social Safety Science and the **Outstanding Research Award** from BCAO. In 2025, I was an **invited speaker** at the *Risk, Emergency, and Business Continuity Management Conference*.
+Recent studies include long-term analyses of how the **Great East Japan Earthquake** affected listed firms' performance, the role of BCP and risk financing in mitigating damages, evaluation of post-disaster tourism recovery subsidies after the **Kumamoto Earthquake**, and most recently field-based interviews with 16 companies affected by the **2024 Noto Peninsula Earthquake**.
 
-**Available for invited talks and research collaboration.** Please feel free to reach out — see my full profile at [researchmap.jp/tetsu315](https://researchmap.jp/tetsu315).
+In 2023, my paper on the long-term financial impacts of the Great East Japan Earthquake received the **Annual Best Paper Award** from the Institute of Social Safety Science and the **Outstanding Research Award** from the Business Continuity Advancement Organization (BCAO). In 2025, I was an **invited speaker** at the *Risk, Emergency, and Business Continuity Management Conference*.
+
+### Professional Affiliations
+
+- **Executive Board Member**, NPO Business Continuity Advancement Organization (BCAO), since June 2020
+- **Member**, Institute of Social Safety Science (地域安全学会)
+- **Member**, Japan Society of Civil Engineers (土木学会)
+- **Member**, Japan Society for Natural Disaster Science (日本自然災害学会)
+
+### Research Fields
+
+Civil planning and transportation engineering; disaster risk management engineering within social infrastructure.
+
+---
+
+**Available for invited talks and research collaboration.** Please feel free to reach out by email, or see my full profile on [researchmap](https://researchmap.jp/tetsu315).

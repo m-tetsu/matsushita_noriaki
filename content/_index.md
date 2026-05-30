@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: resume-biography-3
+    id: about
     content:
       username: me
       text: ''
