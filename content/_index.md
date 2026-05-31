@@ -27,14 +27,22 @@ sections:
   - block: markdown
     id: research
     content:
-      title: 'Research Focus'
+      title: 'Research Approach'
       subtitle: ''
       text: |-
-        My research applies large-scale empirical methods — listed-firm financial data, consumer purchasing records, and structured field interviews — to three connected questions:
+        I study how disasters reshape firms, households, and local economies — and which interventions actually build resilience. My approach combines three lines of evidence:
 
-        - **How disasters affect firms and economies** over the long term
-        - **Whether Business Continuity Planning (BCP) actually mitigates damage** and accelerates recovery
-        - **What interventions translate preparedness intentions into action**
+        - **Quantitative empirics** — listed-firm financial panels, retail POS data, household surveys
+        - **Causal inference** — difference-in-differences, propensity-score matching, synthetic control
+        - **Field engagement** — structured interviews with SMEs, local governments, and disaster-affected firms
+
+        These methods are applied to three connected questions:
+
+        1. **How disasters affect firms and economies** over the long term
+        2. **Whether Business Continuity Planning (BCP) actually mitigates damage** and accelerates recovery
+        3. **What interventions translate preparedness intentions into action**
+
+        → For deep-dives by topic, see the **Research Themes** below.
 
         I am **available for invited talks and international research collaboration**. Please reach out by email.
     design:
@@ -82,5 +90,6 @@ sections:
         folders:
           - events
     design:
-      view: card
+      view: article-grid
+      columns: 3
 ---
