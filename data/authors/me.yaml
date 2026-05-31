@@ -12,7 +12,7 @@ postnominals:
   - Ph.D.
 status:
   icon: "🇯🇵"
-role: Researcher at NTT West
+role: Senior Researcher at NTT West
 bio: |
   Researcher specializing in **disaster economics**, **urban disaster prevention**,
   and **Business Continuity Planning (BCP)**. My work draws on large-scale empirical
@@ -29,14 +29,16 @@ affiliations:
 links:
   - icon: at-symbol
     url: mailto:tetsu315@gmail.com
-    label: E-mail Me
-  - icon: academicons/researchmap
+    label: Email
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=NSo_c58AAAAJ&hl=ja
+    label: Google Scholar
+  - icon: hero/academic-cap
     url: https://researchmap.jp/tetsu315
     label: researchmap
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/citations?user=YOUR_ID   # TODO: add when ready
   - icon: brands/github
     url: https://github.com/m-tetsu
+    label: GitHub
 
 interests:
   - Disaster Economics
@@ -47,24 +49,43 @@ interests:
 
 education:
   - degree: Ph.D. in Engineering
-    institution: ''   # TODO: confirm institution (e.g., Nagoya Institute of Technology)
-    start: ''
-    end: ''           # TODO: confirm graduation year
+    institution: Nagoya Institute of Technology (名古屋工業大学大学院)
+    end: 2015-03-31
     summary: |
-      Research in disaster economics and Business Continuity Planning.
+      Doctoral dissertation: *A Study on Mitigation Governance for Reducing
+      Economic Loss from Disaster* (経済被害の低減に向けた減災ガバナンスに関する研究).
 
 experience:
-  - role: Researcher
+  - role: Senior Researcher
     org: NTT West Corporation
-    start: ''
+    start: 2024-04-01
     summary: |
-      Research and practice in disaster economics, urban disaster prevention,
-      and Business Continuity Planning (BCP).
+      Continuing research on disaster impact assessment and DX support for
+      local governments, alongside applied work in disaster economics, urban
+      disaster prevention, and Business Continuity Planning (BCP).
+  - role: Risk Consultant
+    org: Deloitte
+    start: 2007-04-01
+    end: 2024-03-31
+    summary: |
+      Risk-management advisory across the private and public sectors. Led
+      simple-format BCP ("Jigyokei") development for more than 100 SMEs, and
+      conducted earthquake-damage surveys, business-continuity assessments,
+      and improvement recommendations for private firms, local governments,
+      and data-center operators. Also supported system audits, risk-management
+      framework design, DX adoption, and a wide range of public-sector projects.
+  - role: Staff
+    org: NTT DOCOMO
+    start: 2004-04-01
+    end: 2007-03-31
+    summary: |
+      First position out of university.
   - role: Executive Board Member
     org: NPO Business Continuity Advancement Organization (BCAO)
     start: 2020-06-01
     summary: |
-      Promoting Business Continuity Planning adoption across Japanese industry.
+      Promoting Business Continuity Planning adoption across Japanese industry
+      (concurrent role).
 
 memberships:
   - name: Institute of Social Safety Science (地域安全学会)

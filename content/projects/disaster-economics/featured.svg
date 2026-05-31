@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Disaster Economics">
+  <defs>
+    <linearGradient id="ecoBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0c1f1a"/>
+      <stop offset="100%" stop-color="#065f46"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#ecoBg)"/>
+  <!-- axes -->
+  <g stroke="#a7f3d0" stroke-width="3" fill="none">
+    <line x1="80" y1="320" x2="540" y2="320"/>
+    <line x1="80" y1="320" x2="80" y2="80"/>
+  </g>
+  <!-- bars -->
+  <g fill="#34d399">
+    <rect x="130" y="220" width="50" height="100" opacity="0.85"/>
+    <rect x="210" y="160" width="50" height="160" opacity="0.85"/>
+    <rect x="290" y="200" width="50" height="120" opacity="0.85"/>
+    <rect x="370" y="120" width="50" height="200" opacity="0.85"/>
+    <rect x="450" y="180" width="50" height="140" opacity="0.85"/>
+  </g>
+  <!-- trend line -->
+  <polyline points="155,210 235,150 315,190 395,110 475,170" fill="none" stroke="#fde68a" stroke-width="4"/>
+  <g fill="#fde68a">
+    <circle cx="155" cy="210" r="6"/>
+    <circle cx="235" cy="150" r="6"/>
+    <circle cx="315" cy="190" r="6"/>
+    <circle cx="395" cy="110" r="6"/>
+    <circle cx="475" cy="170" r="6"/>
+  </g>
+  <text x="300" y="370" fill="#e2e8f0" font-family="Georgia, serif" font-size="26" text-anchor="middle" font-style="italic">Disaster Economics</text>
+</svg>
