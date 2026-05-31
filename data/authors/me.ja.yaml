@@ -1,0 +1,143 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: 松下 哲明
+  given: 哲明
+  family: 松下
+  alternate: Noriaki Matsushita
+  pronunciation: "まつした のりあき"
+  pronouns: ""
+postnominals:
+  - 博士（工学）
+status:
+  icon: "🇯🇵"
+role: 主任研究員
+bio: |
+  **防災経済学**、**都市防災**、および**事業継続計画（BCP）**を専門とする研究者です。
+  上場企業の財務データ、消費者の購買データ、構造化された現地インタビューなど大規模な実証エビデンスを用いて、
+  災害が企業や地域社会に与える影響と、防災対策がどのように測定可能なレジリエンスへとつながるかを研究しています。
+
+  **招待講演および国際的な共同研究のご依頼を歓迎しております。**
+
+affiliations:
+  - name: 西日本電信電話株式会社（NTT西日本）
+    url: https://www.ntt-west.co.jp/
+
+links:
+  - icon: at-symbol
+    url: "mailto:tetsu315@gmail.com"
+    label: メール
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=NSo_c58AAAAJ&hl=ja
+    label: Google Scholar
+  - icon: hero/academic-cap
+    url: https://researchmap.jp/tetsu315
+    label: researchmap
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0000-7679-2970
+    label: ORCID
+
+interests:
+  - 防災経済学
+  - 都市防災
+  - 事業継続計画（BCP）
+  - 災害が企業に与える影響の実証分析
+  - 防災行動を促す行動変容
+
+education:
+  - degree: 博士（工学）
+    institution: 名古屋工業大学
+    end: 2015-03-23
+    summary: |
+      博士論文：『災害による経済的損失軽減のための減災ガバナンスに関する研究』
+
+experience:
+  - role: 主任研究員
+    org: 西日本電信電話株式会社（NTT西日本）
+    start: 2024-04-01
+    summary: |
+      災害影響評価および自治体DX支援に関する研究を継続するとともに、
+      防災経済学、都市防災、事業継続計画（BCP）の応用研究に従事。
+  - role: リスクコンサルタント
+    org: デロイト トーマツ
+    start: 2007-04-01
+    end: 2024-03-31
+    summary: |
+      民間・公共双方を対象としたリスクマネジメント・アドバイザリーに従事。
+      100社超の中小企業に対する簡易版BCP（事業継続力強化計画／事業継）の策定支援、
+      民間企業・自治体・データセンター事業者を対象とした地震被害調査、事業継続評価、
+      改善提言を実施。あわせてシステム監査、リスクマネジメント体制の設計、
+      DX導入支援、各種の公共セクター案件にも携わる。
+  - role: 社員
+    org: 株式会社NTTドコモ
+    start: 2004-04-01
+    end: 2007-03-31
+    summary: |
+      新卒入社後の最初の所属先。
+  - role: 理事
+    org: 特定非営利活動法人 事業継続推進機構（BCAO）
+    start: 2020-06-01
+    summary: |
+      日本産業界における事業継続計画の普及・推進活動（兼任）。
+
+skills:
+  - name: 分析手法
+    items:
+      - label: 計量経済分析（回帰分析、パネルデータ分析）
+        level: 5
+      - label: 因果推論（DID、傾向スコアマッチング、合成統制法）
+        level: 5
+      - label: 記述統計・データ可視化
+        level: 5
+      - label: アンケート調査の設計・分析
+        level: 4
+  - name: ツール / 言語
+    items:
+      - label: R
+        level: 5
+      - label: Python
+        level: 4
+      - label: Tableau
+        level: 4
+      - label: LaTeX
+        level: 4
+  - name: ドメイン専門知識
+    items:
+      - label: 事業継続計画（BCP）
+        level: 5
+      - label: 都市防災
+        level: 5
+      - label: 災害リスク評価
+        level: 5
+      - label: 地震被害調査
+        level: 4
+      - label: リスクマネジメント
+        level: 5
+
+languages:
+  - name: 日本語
+    level: 5
+    label: ネイティブ
+  - name: 英語
+    level: 3
+    label: CEFR B2（中上級）
+
+memberships:
+  - name: 地域安全学会
+  - name: 土木学会
+  - name: 日本自然災害学会
+
+awards:
+  - title: 年間優秀論文賞
+    awarder: 地域安全学会
+    date: "2023-05-01"
+    summary: |
+      論文「東日本大震災が企業業績に及ぼした長期的な影響」（地域安全学会論文集, 2022）に対して受賞。
+    icon: hero/trophy
+  - title: 優秀研究賞
+    awarder: 特定非営利活動法人 事業継続推進機構（BCAO）
+    date: "2023-05-01"
+    summary: |
+      論文「東日本大震災が企業業績に及ぼした長期的な影響」に対して受賞。
+    icon: hero/trophy
