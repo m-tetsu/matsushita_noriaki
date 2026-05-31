@@ -49,6 +49,14 @@ education:
     end: 2015-03-23
     summary: |
       博士論文：『災害による経済的損失軽減のための減災ガバナンスに関する研究』
+  - degree: 修士（工学）
+    institution: 名古屋工業大学
+    end: 2004-03-23
+    summary: |
+  - degree: 学士（工学）
+    institution: 名古屋工業大学
+    end: 2002-03-23
+    summary: |
 
 experience:
   - role:
@@ -73,11 +81,6 @@ experience:
     end: 2007-03-31
     summary: |
       新卒入社後の最初の所属先。
-  - role: 理事
-    org: 特定非営利活動法人 事業継続推進機構（BCAO）
-    start: 2020-06-01
-    summary: |
-      日本産業界における事業継続計画の普及・推進活動（兼任）。
 
 skills:
   - name: 分析手法

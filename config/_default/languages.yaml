@@ -15,6 +15,9 @@ ja:
   weight: 2
   params:
     description: 災害が企業と地域経済に与える影響、およびBCP（事業継続計画）の実証研究
+    hugoblox:
+      locale:
+        date_format: "2006年1月2日"
   menu:
     main:
       - name: 概要
