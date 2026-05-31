@@ -1,22 +1,34 @@
 # Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
+# Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
 en:
   locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  languageName: English
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  locale: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+ja:
+  locale: ja-jp
+  contentDir: content/ja
+  languageName: 日本語
+  title: 松下 哲明 — 防災経済学・BCP研究
+  weight: 2
+  params:
+    description: 災害が企業と地域経済に与える影響、およびBCP（事業継続計画）の実証研究
+  menu:
+    main:
+      - name: 概要
+        url: /ja/#about
+        weight: 10
+      - name: 研究アプローチ
+        url: /ja/#research
+        weight: 20
+      - name: 研究テーマ
+        url: /ja/#projects
+        weight: 30
+      - name: 論文
+        url: /ja/#papers
+        weight: 40
+      - name: 講演
+        url: /ja/#talks
+        weight: 50

@@ -1,0 +1,15 @@
+---
+title: '企業を守るは生活を守る'
+event: '名古屋大学減災連携研究センター 防災アカデミー'
+location: '名古屋大学'
+summary: 企業の防災対策がいかに地域レジリエンスと住民の生活保護につながるかを論じた公開講演。
+date: '2024-10-16'
+date_end: '2024-10-16'
+all_day: true
+publishDate: '2024-10-16'
+authors:
+  - me
+tags:
+  - 講演
+featured: false
+---

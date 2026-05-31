@@ -1,0 +1,15 @@
+---
+title: '震災が及ぼす経済被害 — 東日本大震災の長期分析'
+event: '第18回防災フェア（東海リスクマネジメント研究会）'
+location: '日本'
+summary: 東日本大震災が上場企業に及ぼした長期的な財務影響に関する分析を発表した講演。
+date: '2023-02-21'
+date_end: '2023-02-21'
+all_day: true
+publishDate: '2023-02-21'
+authors:
+  - me
+tags:
+  - 講演
+featured: false
+---
