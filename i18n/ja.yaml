@@ -1,0 +1,14 @@
+# Project-level Japanese i18n overrides for HugoBlox theme strings.
+# These take precedence over the theme's modules/blox/i18n/ja.yaml.
+
+- id: experience
+  translation: 職歴
+
+- id: awards
+  translation: 受賞
+
+- id: skills
+  translation: スキル
+
+- id: present
+  translation: 現在
