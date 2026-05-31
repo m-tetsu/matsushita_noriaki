@@ -11,6 +11,7 @@ publishDate: '2023-02-03'
 authors:
   - me
 tags:
+  - Seminars
   - BCP
   - Corporate Risk Management
 featured: false

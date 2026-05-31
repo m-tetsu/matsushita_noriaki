@@ -11,7 +11,7 @@ publishDate: '2025-10-28'
 authors:
   - me
 tags:
-  - Field Research
+  - Seminars
   - Noto Peninsula Earthquake
   - BCP
 featured: true

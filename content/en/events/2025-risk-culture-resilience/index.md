@@ -22,5 +22,3 @@ url_code: ''
 abstract_short: 'Invited keynote on risk culture as the foundation of corporate disaster resilience.'
 projects: []
 ---
-
-**Invited Keynote.**

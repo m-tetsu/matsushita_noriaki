@@ -11,6 +11,7 @@ publishDate: '2022-01-26'
 authors:
   - me
 tags:
+  - Seminars
   - BCP
   - Disaster Mitigation
 featured: false

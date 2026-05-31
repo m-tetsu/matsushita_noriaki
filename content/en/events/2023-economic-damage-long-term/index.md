@@ -11,6 +11,7 @@ publishDate: '2023-02-21'
 authors:
   - me
 tags:
+  - Seminars
   - Disaster Economics
   - Great East Japan Earthquake
 featured: false

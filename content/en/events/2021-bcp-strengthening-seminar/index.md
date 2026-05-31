@@ -11,6 +11,7 @@ publishDate: '2021-12-17'
 authors:
   - me
 tags:
+  - Seminars
   - BCP
   - SME
 featured: false

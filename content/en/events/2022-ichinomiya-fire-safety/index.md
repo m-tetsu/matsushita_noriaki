@@ -11,6 +11,7 @@ publishDate: '2022-05-26'
 authors:
   - me
 tags:
+  - Seminars
   - BCP
   - Regional Collaboration
 featured: false

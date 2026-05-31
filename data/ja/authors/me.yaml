@@ -53,10 +53,10 @@ education:
     institution: 名古屋工業大学
     end: 2004-03-23
     summary: |
-  - degree: 学士（工学）
-    institution: 名古屋工業大学
-    end: 2002-03-23
-    summary: |
+  # - degree: 学士（工学）
+  #   institution: 名古屋工業大学
+  #   end: 2002-03-23
+  #   summary: |
 
 experience:
   - role:

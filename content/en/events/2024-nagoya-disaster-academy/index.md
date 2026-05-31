@@ -11,7 +11,7 @@ publishDate: '2024-10-16'
 authors:
   - me
 tags:
-  - Public Lecture
+  - Seminars
   - BCP
   - Community Resilience
 featured: false
