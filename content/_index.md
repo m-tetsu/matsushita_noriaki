@@ -41,6 +41,17 @@ sections:
       columns: '1'
 
   - block: collection
+    id: projects
+    content:
+      title: Research Themes
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 3
+
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -72,15 +83,4 @@ sections:
           - events
     design:
       view: card
-
-  - block: collection
-    id: projects
-    content:
-      title: Research Themes
-      filters:
-        folders:
-          - projects
-    design:
-      view: article-grid
-      columns: 3
 ---

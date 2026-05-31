@@ -7,12 +7,12 @@ main:
   - name: Research
     url: /#research
     weight: 20
-  - name: Publications
-    url: /#papers
-    weight: 30
-  - name: Talks
-    url: /#talks
-    weight: 40
   - name: Projects
     url: /#projects
+    weight: 30
+  - name: Publications
+    url: /#papers
+    weight: 40
+  - name: Talks
+    url: /#talks
     weight: 50
