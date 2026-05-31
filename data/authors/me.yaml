@@ -6,8 +6,8 @@ name:
   given: Noriaki
   family: Matsushita
   alternate: 松下 哲明
-  pronunciation: ''
-  pronouns: ''
+  pronunciation: ""
+  pronouns: ""
 postnominals:
   - Ph.D.
 status:
@@ -23,12 +23,12 @@ bio: |
   **Available for invited talks and international research collaboration.**
 
 affiliations:
-  - name: NTT West Corporation (西日本電信電話株式会社)
+  - name: NTT West, Inc.
     url: https://www.ntt-west.co.jp/
 
 links:
   - icon: at-symbol
-    url: mailto:tetsu315@gmail.com
+    url: "mailto:tetsu315@gmail.com"
     label: Email
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=NSo_c58AAAAJ&hl=ja
@@ -36,9 +36,6 @@ links:
   - icon: hero/academic-cap
     url: https://researchmap.jp/tetsu315
     label: researchmap
-  - icon: brands/github
-    url: https://github.com/m-tetsu
-    label: GitHub
 
 interests:
   - Disaster Economics
@@ -49,11 +46,11 @@ interests:
 
 education:
   - degree: Ph.D. in Engineering
-    institution: Nagoya Institute of Technology (名古屋工業大学大学院)
-    end: 2015-03-31
+    institution: Nagoya Institute of Technology
+    end: 2015-03-23
     summary: |
       Doctoral dissertation: *A Study on Mitigation Governance for Reducing
-      Economic Loss from Disaster* (経済被害の低減に向けた減災ガバナンスに関する研究).
+      Economic Loss from Disaster*.
 
 experience:
   - role: Senior Researcher
