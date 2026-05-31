@@ -88,31 +88,46 @@ experience:
       (concurrent role).
 
 skills:
-  - category: Analytical Methods
+  - name: Analytical Methods
     items:
-      - name: Econometric Analysis (regression, panel data)
-      - name: Causal Inference (DID, PSM, synthetic control)
-      - name: Descriptive Statistics & Data Visualization
-      - name: Survey Design & Analysis
-  - category: Tools & Languages
+      - label: Econometric Analysis (regression, panel data)
+        level: 5
+      - label: Causal Inference (DID, PSM, synthetic control)
+        level: 5
+      - label: Descriptive Statistics & Data Visualization
+        level: 5
+      - label: Survey Design & Analysis
+        level: 4
+  - name: Tools & Languages
     items:
-      - name: R
-      - name: Python
-      - name: Tableau
-      - name: LaTeX
-  - category: Domain Expertise
+      - label: R
+        level: 5
+      - label: Python
+        level: 4
+      - label: Tableau
+        level: 4
+      - label: LaTeX
+        level: 4
+  - name: Domain Expertise
     items:
-      - name: Business Continuity Planning (BCP)
-      - name: Urban Disaster Prevention
-      - name: Disaster Risk Assessment
-      - name: Earthquake Damage Survey
-      - name: Risk Management
+      - label: Business Continuity Planning (BCP)
+        level: 5
+      - label: Urban Disaster Prevention
+        level: 5
+      - label: Disaster Risk Assessment
+        level: 5
+      - label: Earthquake Damage Survey
+        level: 4
+      - label: Risk Management
+        level: 5
 
 languages:
   - name: Japanese
-    level: Native
+    level: 5
+    label: Native
   - name: English
-    level: CEFR B2 (Upper-Intermediate)
+    level: 3
+    label: CEFR B2 (Upper-Intermediate)
 
 memberships:
   - name: Institute of Social Safety Science (地域安全学会)

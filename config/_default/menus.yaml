@@ -16,3 +16,6 @@ main:
   - name: Talks
     url: /#talks
     weight: 50
+  - name: CV
+    url: /experience/
+    weight: 60

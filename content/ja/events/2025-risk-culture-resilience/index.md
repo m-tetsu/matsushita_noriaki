@@ -10,6 +10,6 @@ publishDate: '2025-11-25'
 authors:
   - me
 tags:
-  - 講演
+  - 招待
 featured: false
 ---

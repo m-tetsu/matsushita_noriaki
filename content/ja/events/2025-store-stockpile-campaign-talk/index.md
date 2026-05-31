@@ -10,6 +10,6 @@ publishDate: '2025-10-26'
 authors:
   - me
 tags:
-  - 講演
+  - 発表
 featured: false
 ---

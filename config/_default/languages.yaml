@@ -32,3 +32,6 @@ ja:
       - name: 講演
         url: /ja/#talks
         weight: 50
+      - name: 経歴
+        url: /ja/experience/
+        weight: 60
