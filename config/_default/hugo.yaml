@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: 'Noriaki Matsushita'
+title: "Noriaki Matsushita CV"
 # Website URL
-baseURL: 'https://m-tetsu.github.io/matsushita_noriaki/'
+baseURL: "https://m-tetsu.github.io/matsushita_noriaki/"
 
 ############################
 ## LANGUAGE
