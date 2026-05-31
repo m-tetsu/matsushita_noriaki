@@ -15,6 +15,9 @@ tags:
   - Behavioral Change
   - Empirical Analysis
 featured: true
+image:
+  preview_only: true
+  placement: 0
 url_pdf: ''
 url_code: ''
 url_dataset: ''
