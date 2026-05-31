@@ -18,20 +18,20 @@ ja:
   menu:
     main:
       - name: 概要
-        url: '#about'
+        url: /ja/#about
         weight: 10
       - name: 経歴
-        url: experience/
+        url: /ja/experience/
         weight: 20
       - name: 研究アプローチ
-        url: '#research'
+        url: /ja/#research
         weight: 30
       - name: 研究テーマ
-        url: '#projects'
+        url: /ja/#projects
         weight: 40
       - name: 論文
-        url: '#papers'
+        url: /ja/#papers
         weight: 50
       - name: 講演
-        url: '#talks'
+        url: /ja/#talks
         weight: 60
