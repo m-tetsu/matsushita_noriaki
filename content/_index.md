@@ -11,9 +11,14 @@ sections:
       username: me
       text: ''
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'About'
+        interests: 'Interests'
+        education: 'Education'
+        experience: 'Experience'
+        skills: 'Skills'
+        languages: 'Languages'
+        awards: 'Awards'
+        memberships: 'Memberships'
     design:
       background:
         gradient_mesh:
