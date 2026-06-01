@@ -26,12 +26,9 @@ ja:
       - name: 経歴
         url: experience/
         weight: 20
-      - name: 研究アプローチ
-        url: '#research'
-        weight: 30
       - name: 研究テーマ
         url: '#projects'
-        weight: 40
+        weight: 30
       - name: 論文
         url: '#papers'
         weight: 50
