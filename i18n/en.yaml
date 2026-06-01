@@ -1,0 +1,4 @@
+# Project-level English i18n overrides for HugoBlox theme strings.
+
+- id: more_talks
+  translation: See all talks

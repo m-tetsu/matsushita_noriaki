@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Research Themes
+      title: Themes
       filters:
         folders:
           - projects
@@ -90,7 +90,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - events

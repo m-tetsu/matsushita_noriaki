@@ -90,7 +90,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 講演・口頭発表
+      title: 講演
       filters:
         folders:
           - events

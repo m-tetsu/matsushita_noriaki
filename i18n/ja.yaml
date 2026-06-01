@@ -12,3 +12,6 @@
 
 - id: present
   translation: 現在
+
+- id: more_talks
+  translation: 講演一覧
