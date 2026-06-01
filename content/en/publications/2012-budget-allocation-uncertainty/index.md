@@ -1,5 +1,5 @@
 ---
-title: 'Evaluation of Budget Allocation for Disaster-Prevention Projects Under Uncertainty: Seismic Retrofitting of Wooden Houses and Stockpiling of Temporary Housing'
+title: 'Evaluation of the Mitigation Policy Mix Under Uncertainties - In Case of Seismic Reinforcement for Wooden House and Stock of Temporry Housing -'
 authors:
   - me
   - Eizo Hideshima

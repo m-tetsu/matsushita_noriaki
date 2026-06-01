@@ -14,12 +14,12 @@ status:
   icon: "🇯🇵"
 role:
 bio: |
-  **防災経済学**、**都市防災**、および**事業継続計画（BCP）**を専門とする研究者です。
-  災害が企業や地域社会に与える影響と、防災対策がどのように測定可能なレジリエンスへとつながるかを研究しています。
-  近年は大規模なデータを用いた実証的な分析を通じ、政策に実装できる知見の導出を目指しています。
+  **防災経済学**、**都市防災**、および**産業防災**を専門とする研究者です。
+  災害が企業や地域社会・地域経済に与える影響と、レジリエンスに向けた行動変容へとつながる研究を目指しています。
+  近年は大規模なデータを用いた実証的な分析を通じ、政策実装を目指した知見の導出に取り組んでいます。
 
 affiliations:
-  - name: 西日本電信電話株式会社（NTT西日本）
+  - name: NTT西日本
     url: https://www.ntt-west.co.jp/
 
 links:
@@ -39,7 +39,7 @@ links:
 interests:
   - 防災経済学
   - 都市防災
-  - 事業継続計画（BCP）
+  - 産業防災
   - 災害が企業に与える影響の実証分析
   - 行動変容
 
@@ -63,8 +63,7 @@ experience:
     org: 西日本電信電話株式会社（NTT西日本）
     start: 2024-04-01
     summary: |
-      災害影響評価および自治体DX支援に関する研究を継続するとともに、
-      防災経済学、都市防災、事業継続計画（BCP）の応用研究に従事。
+      自治体向けコンサルティングを中心に、産業防災、DX支援等に従事中。
   - role: リスクコンサルタント
     org: デロイト トーマツ
     start: 2007-04-01
@@ -80,49 +79,6 @@ experience:
     start: 2004-04-01
     end: 2007-03-31
     summary: |
-      新卒入社後の最初の所属先。
-
-skills:
-  - name: 分析手法
-    items:
-      - label: 計量経済分析（回帰分析、パネルデータ分析）
-        level: 5
-      - label: 因果推論（DID、傾向スコアマッチング、合成統制法）
-        level: 5
-      - label: 記述統計・データ可視化
-        level: 5
-      - label: アンケート調査の設計・分析
-        level: 4
-  - name: ツール / 言語
-    items:
-      - label: R
-        level: 5
-      - label: Python
-        level: 4
-      - label: Tableau
-        level: 4
-      - label: LaTeX
-        level: 4
-  - name: ドメイン専門知識
-    items:
-      - label: 事業継続計画（BCP）
-        level: 5
-      - label: 都市防災
-        level: 5
-      - label: 災害リスク評価
-        level: 5
-      - label: 地震被害調査
-        level: 4
-      - label: リスクマネジメント
-        level: 5
-
-languages:
-  - name: 日本語
-    level: 5
-    label: ネイティブ
-  - name: 英語
-    level: 3
-    label: CEFR B2（中上級）
 
 memberships:
   - name: 地域安全学会

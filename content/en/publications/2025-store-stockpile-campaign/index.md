@@ -1,5 +1,5 @@
 ---
-title: 'Impact of Store-Based Stockpile Awareness Campaigns on Disaster Preparedness Behavior: An Empirical Analysis Using Purchasing Data from the "Sonaeru Fair" in Hiroshima Prefecture'
+title: 'The Effects of an In-Store Stockpiling Awareness Campaign on Disaster Preparedness Behavior - A Case Study of Hiroshima’s “Stockpiling Fair” Using Purchase Data -'
 authors:
   - me
 date: '2025-10-25'

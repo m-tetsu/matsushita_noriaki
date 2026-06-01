@@ -14,13 +14,9 @@ status:
   icon: "🇯🇵"
 role: Senior Researcher
 bio: |
-  Researcher specializing in **disaster economics**, **urban disaster prevention**,
-  and **Business Continuity Planning (BCP)**. My work draws on large-scale empirical
-  evidence — listed-firm financial data, consumer purchasing records, and structured
-  field interviews — to understand how disasters affect businesses and communities,
-  and how preparedness measures translate into measurable resilience.
-
-  **Available for invited talks and international research collaboration.**
+  I am a researcher specializing in **disaster economics**, **urban disaster resilience**, and **industrial disaster resilience**.
+  My research aims to study the impact of disasters on businesses, local communities, and regional economies, and to guide behavioral changes toward resilience.
+  In recent years, I have been working to derive insights aimed at policy implementation through empirical analysis using large-scale data.
 
 affiliations:
   - name: NTT West, Inc.
@@ -42,7 +38,7 @@ links:
 
 interests:
   - Disaster Economics
-  - Urban Disaster Prevention
+  - Urban Disaster Resilience
   - Business Continuity Planning (BCP)
   - Empirical Analysis of Disaster Impacts on Firms
   - Behavioral Change for Disaster Preparedness
@@ -56,13 +52,11 @@ education:
       Economic Loss from Disaster*.
 
 experience:
-  - role: Senior Researcher
-    org: NTT West Corporation
+  - role: Researcher, consulting
+    org: NTT West, Inc.
     start: 2024-04-01
     summary: |
-      Continuing research on disaster impact assessment and DX support for
-      local governments, alongside applied work in disaster economics, urban
-      disaster prevention, and Business Continuity Planning (BCP).
+      Currently engaged in consulting for local governments, as well as industrial disaster prevention and DX support.
   - role: Risk Consultant
     org: Deloitte
     start: 2007-04-01
@@ -79,55 +73,6 @@ experience:
     start: 2004-04-01
     end: 2007-03-31
     summary: |
-      First position out of university.
-  - role: Executive Board Member
-    org: NPO Business Continuity Advancement Organization (BCAO)
-    start: 2020-06-01
-    summary: |
-      Promoting Business Continuity Planning adoption across Japanese industry
-      (concurrent role).
-
-skills:
-  - name: Analytical Methods
-    items:
-      - label: Econometric Analysis (regression, panel data)
-        level: 5
-      - label: Causal Inference (DID, PSM, synthetic control)
-        level: 5
-      - label: Descriptive Statistics & Data Visualization
-        level: 5
-      - label: Survey Design & Analysis
-        level: 4
-  - name: Tools & Languages
-    items:
-      - label: R
-        level: 5
-      - label: Python
-        level: 4
-      - label: Tableau
-        level: 4
-      - label: LaTeX
-        level: 4
-  - name: Domain Expertise
-    items:
-      - label: Business Continuity Planning (BCP)
-        level: 5
-      - label: Urban Disaster Prevention
-        level: 5
-      - label: Disaster Risk Assessment
-        level: 5
-      - label: Earthquake Damage Survey
-        level: 4
-      - label: Risk Management
-        level: 5
-
-languages:
-  - name: Japanese
-    level: 5
-    label: Native
-  - name: English
-    level: 3
-    label: CEFR B2 (Upper-Intermediate)
 
 memberships:
   - name: Institute of Social Safety Science (地域安全学会)

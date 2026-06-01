@@ -1,5 +1,5 @@
 ---
-title: 'The Impact of the "Fukko-wari" Recovery Subsidy on Tourist Demand Recovery After the Kumamoto Earthquake'
+title: 'Analysis on the Impact of Rrestoration Measures “Fukkouwari” to Recovery Process of Tourism Industry in the Kumamoto Earthquake'
 authors:
   - me
 date: '2019-01-01'

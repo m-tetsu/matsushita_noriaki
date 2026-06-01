@@ -1,5 +1,5 @@
 ---
-title: 'Promoting Disaster Preparedness Behavior Through the Use of Action Goal Sheets'
+title: 'Encourage to Take Preparedness Action Using Action Plan Sheets'
 authors:
   - me
 date: '2020-05-01'

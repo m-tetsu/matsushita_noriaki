@@ -14,7 +14,6 @@ tags:
   - Disaster Economics
   - Great East Japan Earthquake
   - Corporate Performance
-  - Award-Winning
 featured: true
 ---
 

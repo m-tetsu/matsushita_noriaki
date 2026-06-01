@@ -1,5 +1,5 @@
 ---
-title: 'The Impact of the Great East Japan Earthquake on the Financial Performance of Listed Manufacturing Firms: Effects of BCP and Risk Financing'
+title: 'Assessment of Financial Impacts of The Great East Japan Earthquake on the Listed Manufacturing Industries —Mitigation Effect of BCP and Risk Finance—'
 authors:
   - me
   - Eizo Hideshima
