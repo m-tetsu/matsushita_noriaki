@@ -2,7 +2,8 @@
 title: 防災経済
 summary: 防災施策や災害対策が経済活動に与える影響を定量的に評価
 tags:
-  - 防災経済学
+  - 防災経済
+weight: 20
 date: '2024-01-01'
 authors:
   - me

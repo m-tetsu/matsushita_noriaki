@@ -60,6 +60,8 @@ sections:
       filters:
         folders:
           - projects
+      sort_by: weight
+      sort_ascending: true
     design:
       view: article-grid
       columns: 3

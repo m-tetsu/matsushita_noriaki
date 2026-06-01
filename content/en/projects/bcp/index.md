@@ -1,8 +1,9 @@
 ---
 title: Industrial Disaster Resilience
-summary: reducing disaster impacts on businesses and promoting rapid recovery after natural hazards.
+summary: Reducing disaster impacts on businesses and promoting rapid recovery after natural hazards.
 tags:
-  - BCP
+  - Industrial Resilience
+weight: 10
 date: '2024-01-01'
 authors:
   - me

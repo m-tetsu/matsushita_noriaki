@@ -3,6 +3,7 @@ title: Disaster Economics
 summary: Long-term empirical analysis of how earthquakes and other large-scale disasters affect firm performance, tourism demand, and regional economies.
 tags:
   - Disaster Economics
+weight: 20
 date: '2024-01-01'
 authors:
   - me

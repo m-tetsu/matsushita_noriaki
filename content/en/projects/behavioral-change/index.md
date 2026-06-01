@@ -3,6 +3,7 @@ title: Behavioral Change for Disaster Preparedness
 summary: Field experiments and quasi-experiments on what actually moves households and individuals to prepare for disasters.
 tags:
   - Behavioral Change
+weight: 30
 date: '2024-01-01'
 authors:
   - me

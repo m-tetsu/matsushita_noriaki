@@ -2,7 +2,8 @@
 title: 産業防災
 summary: 企業や地域経済が自然災害に直面した際の被害軽減と早期復旧について研究しています。
 tags:
-  - BCP
+  - 産業防災
+weight: 10
 date: '2024-01-01'
 authors:
   - me
