@@ -13,6 +13,4 @@ image:
 links: []
 ---
 
-This research line investigates which interventions translate disaster-preparedness *intentions* into *actions*. Recent studies include an empirical analysis of the "Sonaeru Fair" store-based stockpile awareness campaign in Hiroshima — using actual POS purchasing data as the outcome variable — and a field study on action goal sheets as commitment devices for household preparedness.
-
-Open to collaboration with behavioral scientists and public-health researchers on field-experiment designs for disaster preparedness.
+My research explores how information, incentives, and policy interventions influence disaster preparedness behaviors. I investigate factors that encourage actions such as emergency stockpiling, preparedness purchases, and risk awareness. By analyzing survey responses, purchasing records, and other empirical data, I seek to develop evidence-based approaches to promoting preparedness and resilience.

@@ -13,6 +13,4 @@ image:
 links: []
 ---
 
-This research line measures the economic consequences of disasters using large-scale data: financial statements of listed firms, government statistics, and consumer purchasing records. Recent work includes a multi-year financial-impact study of the Great East Japan Earthquake (2023 Annual Best Paper Award, ISSS) and an evaluation of Japan's "Fukko-wari" subsidy on post-Kumamoto-earthquake tourism recovery.
-
-Looking for collaborations on cross-country disaster impact measurement and post-disaster policy evaluation.
+I study the economic impacts of disaster risk reduction and preparedness policies. My research evaluates the costs and benefits of investments in resilience, as well as the economic consequences of disasters for businesses and households. Through empirical analysis, I aim to provide evidence that supports effective and sustainable disaster risk management policies.

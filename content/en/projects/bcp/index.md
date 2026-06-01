@@ -1,6 +1,6 @@
 ---
-title: Business Continuity Planning (BCP)
-summary: Empirical research on how BCP adoption mitigates financial damage and accelerates business recovery after large-scale disasters.
+title: Industrial Disaster Resilience
+summary: reducing disaster impacts on businesses and promoting rapid recovery after natural hazards.
 tags:
   - BCP
 date: '2024-01-01'
@@ -24,6 +24,4 @@ url_video: ''
 slides: ''
 ---
 
-This research line uses listed-firm financial data and field interviews to quantify the mitigation effect of Business Continuity Plans (BCP). Studies cover the Great East Japan Earthquake (manufacturing and non-manufacturing industries) and the 2024 Noto Peninsula Earthquake, with consistent evidence that BCP adoption shortens recovery time and reduces long-term financial impact.
-
-Open to international comparative collaboration — particularly studies that contrast Japanese BCP practice with frameworks in other earthquake- and disaster-prone economies.
+My research focuses on reducing disaster impacts on businesses and promoting rapid recovery after natural hazards. I examine how preparedness measures such as Business Continuity Planning (BCP), supply chain risk management, and stockpiling contribute to organizational resilience. Using empirical data from firms and real-world disaster events, I seek to identify effective strategies for strengthening business and regional resilience.
