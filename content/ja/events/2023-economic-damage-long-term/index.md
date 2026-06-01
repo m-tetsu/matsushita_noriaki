@@ -10,7 +10,7 @@ all_day: true
 publishDate: '2023-02-21'
 authors:
   - me
-tags:s
+tags:
   - 講演
 featured: false
 ---

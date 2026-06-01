@@ -11,7 +11,7 @@ publishDate: '2025-10-26'
 authors:
   - me
 tags:
-  - presentation
+  - Presentation
   - Disaster Preparedness
   - Behavioral Change
 featured: false
