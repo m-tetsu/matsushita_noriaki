@@ -5,6 +5,20 @@ date: 2024-01-01
 type: landing
 
 sections:
+  - block: markdown
+    id: tagline
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+        <p style="text-align:center; font-size:1.35rem; font-weight:600; letter-spacing:0.01em; color:#1E63B8; margin:0;">
+        Industrial Disaster Resilience &nbsp;·&nbsp; Disaster Economics &nbsp;·&nbsp; Behavioral Change
+        </p>
+    design:
+      spacing:
+        padding: ['2rem', '0', '0', '0']
+      columns: '1'
+
   - block: resume-biography-3
     id: about
     content:
